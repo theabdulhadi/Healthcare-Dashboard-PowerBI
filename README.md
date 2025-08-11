@@ -1,4 +1,4 @@
-# 🏥 📈 Medical Conditions & Patient Time Analysis – Power BI
+# 🏥 📈 Medical Conditions & Patient Time Analysis – Power BI Interactive Dashboard
 
 This project walks through the end-to-end creation of a Power BI dashboard analyzing medical conditions and patient time metrics using publicly available healthcare data (2018–2021).
 It covers the full lifecycle — from requirement gathering to final deployment.
