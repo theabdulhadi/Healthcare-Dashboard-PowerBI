@@ -20,9 +20,8 @@ Track and analyze the **patient waiting list** across Inpatient & Outpatient cat
 3. **Data Transformation & Modelling** – Clean, standardize, append, and create relationships in Power Query.  
 4. **Visualization Blueprint** – Wireframe the dashboard before development.  
 5. **Dashboard Layout & Design** – Create DAX measures, visuals, and page layouts.  
-6. **Adding Interactivity** – Navigation buttons, slicers, tooltips, and conditional visuals.  
-7. **Testing & Validation** – Verify calculations, visuals, and user experience.  
-8. **Sharing & Maintenance** – Publish to Power BI Service, schedule refresh.  
+6. **Testing & Validation** – Verify calculations, visuals, and user experience.  
+
 
 ---
 
